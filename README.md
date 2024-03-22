@@ -64,6 +64,8 @@ This streamlined approach reduces complexity and enhances logging efficiency.
 
 Our project demonstrates the importance of a custom domain for hosting a Google SSO app on AKS and the seamless transmission of AKS cluster syslogs to Azure Log Analytics. The project required navigating through challenges such as the need for specific Azure roles and permissions. Ultimately, we successfully connected Grafana to Azure Log Analytics to monitor and analyze metrics data from our Kubernetes-hosted application.
 
+More Details avaiable on the report.[Report](Report.pdf)
+
 ## References
 
 - [Syslog collection with container insights - Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-syslog)
