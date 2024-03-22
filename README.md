@@ -1,4 +1,27 @@
-﻿Dev-Sec Ops Assignment 22 
+﻿
+# Monitoring a Kubernetes-Hosted Application Using SSO with Gmail, Syslog, Azure Log Analytics, and Grafana
+
+## Group Members
+
+- Bo Yuan
+- Shifeng Song
+- Yingda Zhang
+- Kenan Yusuf
+
+
+
+
+## Introduction
+
+In this project, we explored monitoring and managing system logs through Azure Grafana, deployed a React web application with Google Single Sign-On (SSO) for authentication, all within a Kubernetes environment. Our work involved setting up a syslog server and client, deploying the React SSO web page, and streamlining operations by transmitting syslogs directly from the cluster to Azure Log Monitor for enhanced efficiency and insight into cluster performance.
+
+## Architecture
+
+### Phase I
+
+![architecture1](./imgs/Architecture1.png)
+The initial architecture involves a Kubernetes cluster hosting a React web application with Google SSO authentication. It includes:
+Dev-Sec Ops Assignment 22 
 
 ![](Aspose.Words.feef60d7-952b-41fd-9c83-b11b859dba2d.001.png) 2024![](Aspose.Words.feef60d7-952b-41fd-9c83-b11b859dba2d.002.png)![](Aspose.Words.feef60d7-952b-41fd-9c83-b11b859dba2d.001.png)![](Aspose.Words.feef60d7-952b-41fd-9c83-b11b859dba2d.001.png)![](Aspose.Words.feef60d7-952b-41fd-9c83-b11b859dba2d.003.png)![](Aspose.Words.feef60d7-952b-41fd-9c83-b11b859dba2d.004.png)![](Aspose.Words.feef60d7-952b-41fd-9c83-b11b859dba2d.005.png)
 
