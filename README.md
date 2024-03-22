@@ -8,8 +8,7 @@
 - Yingda Zhang
 - Kenan Yusuf
 
-**Presented To:** Islam Gomaa  
-**Date:** 03/22/2024
+
 
 
 ## Introduction
@@ -71,4 +70,4 @@ Our project demonstrates the importance of a custom domain for hosting a Google 
 - [Configure rsyslog centralized log server on Ubuntu](https://computingpost.medium.com/configure-rsyslog-centralized-log-server-on-ubuntu-22-04-20-04-18-04-b5222129b3f3)
 - [Install Grafana on Debian or Ubuntu](https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/)
 
-More details can be found in the [project report](./ProjectReport.pdf).
+
